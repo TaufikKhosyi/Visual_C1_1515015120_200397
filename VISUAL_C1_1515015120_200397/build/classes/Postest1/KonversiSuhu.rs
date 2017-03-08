@@ -1,0 +1,11 @@
+KonversiSuhu$10
+KonversiSuhu$7
+KonversiSuhu$6
+KonversiSuhu$9
+KonversiSuhu
+KonversiSuhu$8
+KonversiSuhu$3
+KonversiSuhu$2
+KonversiSuhu$5
+KonversiSuhu$4
+KonversiSuhu$1
